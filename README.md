@@ -2,25 +2,32 @@
 
 <!--
 **Marion3531/Marion3531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-I'm Marion from France! 
+## I'm Marion from France! 
 
-I'm currently working with these technologies :
+I'm interested in backend software development, I'm doing a little frontend too ✨
 
-  ❇️ Java
-  ❇️
-  ❇️
+So far I've been working with these technologies :
 
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=react%2Creact%2C0f1423%3BJava%2CJava%2C6ea9b8%3Bspring+boot%2Cspring+boot%2C563737%3B" alt="My Tech Stack" />
+  ✳️ Java/Spring Boot
+  ✳️ ReactJs
+  ✳️ Postgresql
+  ✳️ HTML/CSS
+
+I know a little about :
+
+  ✴️ Python/Django
+  ✴️ Docker
+
+🔧 The tools I'm using :
+
+Eclipse, VsCode, PgAdmin, Figma
+
+⚗️ I'm currently working on :
+
+- A website-style resume, to explain all my work experiences and what I've learned from them.
+- Self-learning -> to continue my training in sofware development (how is Java working under the hood? also what are the basics of cybersecurity?).
+
+
+
