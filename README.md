@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😊
 
 <!--
 **Marion3531/Marion3531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-test1212
+I'm Marion from France! 
+
+I'm currently working with these technologies :
+
+  ❇️ Java
+  ❇️
+  ❇️
+
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=react%2Creact%2C0f1423%3BJava%2CJava%2C6ea9b8%3Bspring+boot%2Cspring+boot%2C563737%3B" alt="My Tech Stack" />
